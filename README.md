@@ -1,4 +1,3 @@
-Chain Cost Vision
 Project Overview
 Chain Cost Vision is a real-time cross-chain gas fee tracker and transaction cost simulator.
 It monitors gas prices across Ethereum, Polygon, and Arbitrum networks and allows users to simulate transaction costs dynamically in both Live and Simulation modes.
@@ -85,3 +84,9 @@ Add support for more chains (e.g., Optimism, BSC)
 
 License
 This project is open for personal and commercial use. Modify, extend, or integrate it as needed.
+
+
+
+
+<img width="1905" height="905" alt="Screenshot 2025-07-19 230812" src="https://github.com/user-attachments/assets/ad50ce9f-f2e8-4aff-bcb1-afb2981ef9d5" />
+
